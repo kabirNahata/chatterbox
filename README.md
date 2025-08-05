@@ -107,7 +107,7 @@ watermark = watermarker.get_watermark(watermarked_audio, sample_rate=sr)
 print(f"Extracted watermark: {watermark}")
 # Output: 0.0 (no watermark) or 1.0 (watermarked)
 ```
-
+ALL credits to resemble.ai 
 
 # Official Discord
 
